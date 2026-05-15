@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.trimAutoWhitespace": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "editor.tabSize": 2,
+    "gitlens.historyExplorer.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+}

@@ -1,0 +1,7 @@
+Path Intellisense
+GitLens
+Better Comments
+REST Client
+Live Server
+Prettier
+HTML CSS Suport
